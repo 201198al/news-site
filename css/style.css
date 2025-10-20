@@ -1,5 +1,7 @@
 header {
-  display: block;
+  display: flex;
+  align-items:center
+  justify-conetnt:center;
   background-color: #d0d1d3;
   height: 400px;
   width: 100%;
