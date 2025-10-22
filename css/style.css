@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 1;
   padding: 0;
   border: 0;
 }
@@ -13,4 +13,5 @@ header {
   width: 100%;
   background: url('https://avatars.mds.yandex.net/get-mpic/1925356/img_id6651142005535227105.jpeg/orig') bottom no repeat;
   background-size: cover;
+
 }
