@@ -11,5 +11,6 @@ header {
   background-color: #d0d1d3;
   height: 400px;
   width: 100%;
-  
+  background: url('https://unsplash.com/photos/g2MossmxZNs/download?force=true&w=1920') bottom no repeat;
+  background-size: cover;
 }
