@@ -14,3 +14,9 @@ header {
   background-size: cover;
 
 }
+
+h1 {
+  color:#c6be94
+  font: size 4rem;
+  font-family: 'Times New Roman', Times, serif;
+}
