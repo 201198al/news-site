@@ -12,7 +12,7 @@ header {
   width: 100%;
   background: url('https://avatars.mds.yandex.net/get-mpic/1925356/img_id6651142005535227105.jpeg/orig') bottom no-repeat;
   background-size: cover;
-
+  margin-bottom: 60px;
 }
 
 h1 {
