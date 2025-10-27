@@ -84,12 +84,13 @@ text-transform: uppercase;
   color: rgb(108, 117, 125);
   font-family: 'Times New Roman' ,  Times, serif;
 }
-article:nth-child(even) {
+article:nth-of-type(even) {
   background-color: #f7f7f7; 
 }
-article:nth-child(1) h2::before,
-article:nth-child(2) h2::before {
-  content: "NEW! ";           
-  color: red;                 
-  font-weight: bold;          
+
+article:nth-of-type(1) h2::before,
+article:nth-of-type(2) h2::before {
+  content: "NEW! ";
+  color: red;
+  font-weight: bold;
 }
