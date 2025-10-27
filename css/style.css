@@ -84,3 +84,6 @@ text-transform: uppercase;
   color: rgb(108, 117, 125);
   font-family: 'Times New Roman' ,  Times, serif;
 }
+article:nth-child(even) {
+  background-color: #f7f7f7; 
+}
