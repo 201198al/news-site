@@ -87,3 +87,9 @@ text-transform: uppercase;
 article:nth-child(even) {
   background-color: #f7f7f7; 
 }
+article:nth-child(1) h2::before,
+article:nth-child(2) h2::before {
+  content: "NEW! ";           
+  color: red;                 
+  font-weight: bold;          
+}
