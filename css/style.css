@@ -83,6 +83,7 @@ text-transform: uppercase;
   color: rgb(108, 117, 125);
   font-family: 'Times New Roman' ,  Times, serif;
 }
+
 .news article:nth-of-type(even) {
   background-color: #f7f7f7;
 }
